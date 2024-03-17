@@ -5,7 +5,7 @@ Instructions are in the "Virtual Titration SetUp.pdf". Please follow steps there
 The 3D models for the components can be found here: https://github.com/fwliu1/VirtualTitrationParts
 
 
-Credit: These experiences were designed by Charles Amador and Frank Liu at the Meteor Studio. 
+Credit: These experiences were designed by Charles Amador and Frank Liu at the [Meteor Studio](https://meteor.ame.asu.edu/). 
 
 ## License
 <!-- Released under the [MIT license](LICENSE). -->
