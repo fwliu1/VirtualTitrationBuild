@@ -2,7 +2,7 @@
 
 Instructions are in the "Virtual Titration SetUp.pdf".
 
-Video tutorial for set up: https://youtu.be/rexQ54NHaQw
+Video tutorial for set up for WINDOWS build: https://youtu.be/rexQ54NHaQw
 
 The 3D models for the components can be found here: https://github.com/fwliu1/VirtualTitrationParts
 
