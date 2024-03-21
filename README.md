@@ -1,6 +1,7 @@
 ## VirtualTitration Build
 
 Instructions are in the "Virtual Titration SetUp.pdf".
+
 Video tutorial for set up: https://youtu.be/rexQ54NHaQw
 
 The 3D models for the components can be found here: https://github.com/fwliu1/VirtualTitrationParts
